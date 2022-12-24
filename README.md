@@ -34,7 +34,7 @@ menu for lam-keysafe-cli
 ```
 $ npx lam-keysafe-cli signup
 ```
-<img src="https://user-images.githubusercontent.com/92732976/209437225-743c9f29-e0cd-4549-8461-4582881be384.png" width="500" height="90" alt="accessibility text">
+<img src="https://user-images.githubusercontent.com/92732976/209437225-743c9f29-e0cd-4549-8461-4582881be384.png" width="500" height="80" alt="accessibility text">
 
 
 ```
