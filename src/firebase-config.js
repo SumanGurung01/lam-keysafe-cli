@@ -2,9 +2,9 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB0v1w7uEtbksTXU26ZAYr448dk9o3qV04",
+    apiKey: "",
     authDomain: "lam-keysafe-cli.firebaseapp.com",
-    databaseURL: "https://lam-keysafe-cli-default-rtdb.firebaseio.com",
+    databaseURL: "",
     projectId: "lam-keysafe-cli",
     storageBucket: "lam-keysafe-cli.appspot.com",
     messagingSenderId: "124004149213",
