@@ -1,0 +1,23 @@
+{
+  "name": "lam-keysafe-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for managing all your passwords in one place",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suman Gurung",
+  "keywords": ["lam-cli" , "lam" , "keysafe" , "lam-keysafe" , "keysafe-cli"],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "commander": "^9.4.1",
+    "firebase": "^9.15.0",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0",
+    "node-fetch": "^3.3.0"
+  }
+}
